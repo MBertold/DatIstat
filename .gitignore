@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Airflow logs and run files
+airflow.cfg
+airflow.db
+logs/
+airflow_logs/
+
+# Dati locali pesanti (opzionale, tracciamo solo la struttura)
+*.parquet
+*.duckdb
+*.duckdb.wal
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+*.log

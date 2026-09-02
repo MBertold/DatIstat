@@ -1,0 +1,16 @@
+# Core Data Processing
+requests>=2.31.0
+pandas>=2.1.0
+numpy>=1.26.0
+pyarrow>=14.0.0
+duckdb>=0.10.0
+
+# Machine Learning & Time Series
+scikit-learn>=1.4.0
+
+# Visualization & BI Dashboard
+streamlit>=1.32.0
+plotly>=5.20.0
+
+# Utilities
+python-dateutil>=2.8.2
